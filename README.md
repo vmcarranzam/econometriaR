@@ -1,2 +1,1 @@
-# econometriaR
-Laboratorios_Econometria_R
+# Laboratorios_Econometria_R
